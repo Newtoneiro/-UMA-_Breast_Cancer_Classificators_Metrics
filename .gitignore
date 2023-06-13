@@ -1,0 +1,6 @@
+project/data/__pycache__/
+project/models/__pycache__/
+project/model_evaluator/__pycache__/
+project/__pycache__/
+.vscode/
+.pytest_cache/
